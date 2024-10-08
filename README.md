@@ -1,8 +1,8 @@
-# Nexus Protocol
+# NexusDeFi-Protocol
 
 ## Overview
 
-The **Nexus Protocol** is a decentralized finance (DeFi) ecosystem composed of multiple interconnected smart contracts that function together to enable decentralized financial services. Built on the Stacks blockchain, Nexus leverages Bitcoin's security to offer a range of DeFi services, including staking, governance, lending, and tokenized asset management.
+The **NexusDeFi-Protocol** is a decentralized finance (DeFi) ecosystem composed of multiple interconnected smart contracts that function together to enable decentralized financial services. Built on the Stacks blockchain, Nexus leverages Bitcoin's security to offer a range of DeFi services, including staking, governance, lending, and tokenized asset management.
 
 ### Key Components
 
@@ -17,7 +17,7 @@ The **Nexus Protocol** is a decentralized finance (DeFi) ecosystem composed of m
 
 ## Installation
 
-To deploy the Nexus Protocol contracts on the Stacks blockchain, you need to follow the steps below.
+To deploy the NexusDeFi-Protocol contracts on the Stacks blockchain, you need to follow the steps below.
 
 ### Prerequisites
 
